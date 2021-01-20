@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/almendra</item>
+        <item>@font/amatica_sc</item>
+        <item>@font/amita</item>
+        <item>@font/calligraffitti</item>
+        <item>@font/emilys_candy</item>
+        <item>@font/josefin_slab_italic</item>
+        <item>@font/miltonian</item>
+        <item>@font/short_stack</item>
+    </array>
+</resources>
